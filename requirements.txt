@@ -1,0 +1,9 @@
+pyspark
+pandas
+apache-airflow==2.10.3
+google-cloud-storage
+google-cloud-bigquery
+great-expectations
+jupyter
+
+#pip install -r requirements.txt --constraint "https://raw.githubusercontent.com/apache/airflow/constraints-2.10.3/constraints-3.10.txt"
